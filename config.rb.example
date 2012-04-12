@@ -1,0 +1,3 @@
+API_KEY = ''    # API key for your Pivotal Tracker account
+PROJECT_ID = '' # Project ID for the Pivotal Tracker project
+GIT_DIR = ''    # Directory of the project's git repository
